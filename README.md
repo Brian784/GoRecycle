@@ -1,6 +1,6 @@
 # GoRecycle
-#Team name:Wakanda Foreva
+Team name:Wakanda Foreva
 
-#Team Members:
+Team Members:
 
 Reheem Butt,Adam Lubaton,Lorenzo Ocampo,Paulo Sampang,Brian Xu
